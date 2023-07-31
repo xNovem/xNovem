@@ -21,6 +21,3 @@ Ethical Hacking<br>Web Hacking
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
-
-<a href="https://github.com/xNovem"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" /> 
- </a></p>
