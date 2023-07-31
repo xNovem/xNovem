@@ -19,3 +19,8 @@ Ethical Hacking<br>Web Hacking
 [![](https://visitcount.itsvg.in/api?id=xNovem&icon=7&color=12)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+
+
+<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" /> 
+ </a></p>
