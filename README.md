@@ -22,5 +22,5 @@ Ethical Hacking<br>Web Hacking
 
 
 
-<a href="https://github.com/htr-tech"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" /> 
+<a href="https://github.com/xNovem"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=htr-tech&layout=compact&theme=react&hide_border=true" /> 
  </a></p>
