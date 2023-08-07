@@ -14,7 +14,7 @@ Cyber Security🛡️
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=xNovem&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
 ## GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=xNovem&theme=darkhub&no-frame=false&no-bg=true&margin-w=4
+![](https://github-profile-trophy.vercel.app/?username=xNovem&theme=darkhub&no-frame=false&no-bg=true&margin-w=4)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=xNovem&icon=2&color=12)](https://visitcount.itsvg.in)
