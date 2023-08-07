@@ -6,7 +6,7 @@ Cyber Security🛡️
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.gg/https://discord.com/users/700440550154829934) 
 
 # Tech Stack:
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xNovem)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=xNovem%theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 
