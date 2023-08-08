@@ -17,5 +17,4 @@ Cyber Security🛡️
 ![](https://github-profile-trophy.vercel.app/?username=xNovem&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=xNovem&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
-
+![](https://komarev.com/ghpvc/?username=your-github-username&style=flat-square)
