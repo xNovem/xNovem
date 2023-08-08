@@ -18,3 +18,5 @@ Cyber Security🛡️
 
 ---
 ![](https://komarev.com/ghpvc/?username=xNovem&style=flat-square&color=grey)
+
+[![](https://visitcount.itsvg.in/api?id=xNovem&label=Profile%20Views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
